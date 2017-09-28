@@ -19,6 +19,7 @@
         <activity android:name=".CrearActivity" />
         <activity android:name=".BorrarActivity" />
         <activity android:name=".ListviewActivity" />
+        <activity android:name=".EditarActivity"></activity>
     </application>
 
 </manifest>
